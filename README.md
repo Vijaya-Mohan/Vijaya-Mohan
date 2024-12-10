@@ -1,4 +1,4 @@
-👋 Welcome to My GitHub Profile!
+👋 Welcome to My GitHub Profile!<br>
 I am a seasoned Data Scientist and Machine Learning Engineer with over five years of experience driving impactful data solutions.
 With a Master's degree in Artificial Intelligence from the University of Surrey, I bring a strong academic foundation and practical expertise in developing, deploying, and optimizing machine learning models and data pipelines.
 My work is fueled by a passion for leveraging technology to deliver value and streamline processes.
