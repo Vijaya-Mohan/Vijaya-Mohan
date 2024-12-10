@@ -1,12 +1,12 @@
 👋 Welcome to My GitHub Profile!<br>
-<\t>I am a seasoned Data Scientist and Machine Learning Engineer with over five years of experience driving impactful data solutions.<br>
+I am a seasoned Data Scientist and Machine Learning Engineer with over five years of experience driving impactful data solutions.<br>
 With a Master's degree in Artificial Intelligence from the University of Surrey, I bring a strong academic foundation and practical expertise in developing, deploying, and optimizing machine learning models and data pipelines.<br>
 My work is fueled by a passion for leveraging technology to deliver value and streamline processes.<br>
 🌟 Core Competencies:<br>
-	- Advanced machine learning modeling and deployment\
-	- Expertise in Python, PySpark, SQL, and Azure cloud technologies
-	- Integration of AI solutions into business workflows
-	- Proven experience with unstructured data processing and model scaling <br>
+Advanced machine learning modeling and deployment
+Expertise in Python, PySpark, SQL, and Azure cloud technologies
+Integration of AI solutions into business workflows
+Proven experience with unstructured data processing and model scaling <br>
 🚀 Areas of Focus: <br>
 	<>I am particularly interested in innovations within AI such as Large Language Models (LLMs), Transformers, and advanced Deep Learning architectures. I also prioritize ethical AI practices, ensuring that solutions are both effective and responsible.
  💡 Why Connect? 
