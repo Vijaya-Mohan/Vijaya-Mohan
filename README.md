@@ -11,5 +11,5 @@ I am a seasoned Data Scientist and Machine Learning Engineer with over five year
 <li> Proven experience with unstructured data processing and model scaling </li> </ul> <br>
 🚀 Areas of Focus:<br> <li> 
  I am particularly interested in innovations within AI such as Large Language Models (LLMs), Transformers, and advanced Deep Learning architectures. I also prioritize ethical AI practices, ensuring that solutions are both effective and responsible. </li> <br>
- 💡 Why Connect? <br> <li> 
-  I am always looking to collaborate, learn, and contribute to projects that push the boundaries of what’s possible in the world of AI and data science. Feel free to explore my repositories and reach out for potential collaborations or discussions.</li>
+ 💡 Why Connect? <br>
+  I am always looking to collaborate, learn, and contribute to projects that push the boundaries of what’s possible in the world of AI and data science. Feel free to explore my repositories and reach out for potential collaborations or discussions.
