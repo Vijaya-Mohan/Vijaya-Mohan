@@ -9,6 +9,8 @@ I am a Data Scientist and Machine Learning Engineer with a Master's degree in Ar
 <li> Integration of AI solutions into business workflows </li>
 <li> Proven experience with unstructured data processing and model scaling </li> </ul> <br>
 🚀 Areas of Focus:<br>
- I am particularly interested in innovations within AI such as Large Language Models (LLMs), Transformers, and advanced Deep Learning architectures. I also prioritize ethical AI practices, ensuring that solutions are both effective and responsible.<br>
+<li> I am particularly interested in innovations within AI such as Large Language Models (LLMs), Transformers, and advanced Deep Learning architectures.</li> 
+<li> I also prioritize ethical AI practices, ensuring that solutions are both effective and responsible.</li> <br>
  💡 Why Connect? <br>
-  I am always looking to collaborate, learn, and contribute to projects that push the boundaries of what’s possible in the world of AI and data science. Feel free to explore my repositories and reach out for potential collaborations or discussions.
+ <li>I am always looking to collaborate, learn, and contribute to projects that push the boundaries of what’s possible in the world of AI and data science.</li>
+ <li> Feel free to explore my repositories and reach out for potential collaborations or discussions.
