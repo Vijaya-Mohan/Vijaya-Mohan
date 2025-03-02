@@ -1,7 +1,7 @@
 👋 Welcome to My GitHub Profile!
 <br> <ul>
 <li>
-I am a Data Scientist and Machine Learning Engineer with a Master's degree in Artificial Intelligence from the University of Surrey, I bring a strong academic foundation and practical expertise in developing, deploying, and optimizing machine learning models and data pipelines. </li>
+I am a Machine Learning Engineer with a Master's degree in Artificial Intelligence from the University of Surrey, I bring a strong academic foundation and practical expertise in developing, deploying, and optimizing machine learning models and data pipelines. </li>
 <li> My work is fueled by a passion for leveraging technology to deliver value and streamline processes.</li> </ul> <br>
 🌟 Core Competencies: <br> <ul> <li> 
  Advanced machine learning modeling and deployment </li>
